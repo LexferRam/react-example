@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LexferRam.github.io/reactexample/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/LexferRam.github.io/reactexample/static/js/main.73edf040.chunk.js",
+    "main.js.map": "/LexferRam.github.io/reactexample/static/js/main.73edf040.chunk.js.map",
+    "runtime-main.js": "/LexferRam.github.io/reactexample/static/js/runtime-main.b8252429.js",
+    "runtime-main.js.map": "/LexferRam.github.io/reactexample/static/js/runtime-main.b8252429.js.map",
+    "static/js/2.7bbe049e.chunk.js": "/LexferRam.github.io/reactexample/static/js/2.7bbe049e.chunk.js",
+    "static/js/2.7bbe049e.chunk.js.map": "/LexferRam.github.io/reactexample/static/js/2.7bbe049e.chunk.js.map",
+    "index.html": "/LexferRam.github.io/reactexample/index.html",
+    "precache-manifest.aed2d45de0842345ab15793283c23dc8.js": "/LexferRam.github.io/reactexample/precache-manifest.aed2d45de0842345ab15793283c23dc8.js",
+    "service-worker.js": "/LexferRam.github.io/reactexample/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/LexferRam.github.io/reactexample/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7bbe049e.chunk.js.LICENSE.txt": "/LexferRam.github.io/reactexample/static/js/2.7bbe049e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8252429.js",
+    "static/js/2.7bbe049e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.73edf040.chunk.js"
+  ]
+}
