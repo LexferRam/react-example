@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/LexferRam.github.io/reactexample/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/LexferRam.github.io/reactexample/static/js/main.73edf040.chunk.js",
-    "main.js.map": "/LexferRam.github.io/reactexample/static/js/main.73edf040.chunk.js.map",
-    "runtime-main.js": "/LexferRam.github.io/reactexample/static/js/runtime-main.b8252429.js",
-    "runtime-main.js.map": "/LexferRam.github.io/reactexample/static/js/runtime-main.b8252429.js.map",
-    "static/js/2.7bbe049e.chunk.js": "/LexferRam.github.io/reactexample/static/js/2.7bbe049e.chunk.js",
-    "static/js/2.7bbe049e.chunk.js.map": "/LexferRam.github.io/reactexample/static/js/2.7bbe049e.chunk.js.map",
-    "index.html": "/LexferRam.github.io/reactexample/index.html",
-    "precache-manifest.aed2d45de0842345ab15793283c23dc8.js": "/LexferRam.github.io/reactexample/precache-manifest.aed2d45de0842345ab15793283c23dc8.js",
-    "service-worker.js": "/LexferRam.github.io/reactexample/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/LexferRam.github.io/reactexample/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.7bbe049e.chunk.js.LICENSE.txt": "/LexferRam.github.io/reactexample/static/js/2.7bbe049e.chunk.js.LICENSE.txt"
+    "main.css": "/react-example/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-example/static/js/main.f26ff470.chunk.js",
+    "main.js.map": "/react-example/static/js/main.f26ff470.chunk.js.map",
+    "runtime-main.js": "/react-example/static/js/runtime-main.93185951.js",
+    "runtime-main.js.map": "/react-example/static/js/runtime-main.93185951.js.map",
+    "static/js/2.7bbe049e.chunk.js": "/react-example/static/js/2.7bbe049e.chunk.js",
+    "static/js/2.7bbe049e.chunk.js.map": "/react-example/static/js/2.7bbe049e.chunk.js.map",
+    "index.html": "/react-example/index.html",
+    "precache-manifest.92226ab6056c22f987f9ed46a285ac6a.js": "/react-example/precache-manifest.92226ab6056c22f987f9ed46a285ac6a.js",
+    "service-worker.js": "/react-example/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-example/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7bbe049e.chunk.js.LICENSE.txt": "/react-example/static/js/2.7bbe049e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8252429.js",
+    "static/js/runtime-main.93185951.js",
     "static/js/2.7bbe049e.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.73edf040.chunk.js"
+    "static/js/main.f26ff470.chunk.js"
   ]
 }
