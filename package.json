@@ -1,7 +1,7 @@
 {
   "name": "curso",
   "version": "0.1.0",
-  "homepage":"LexferRam.github.io/reactexample",
+  "homepage":"https://lexferram.github.io/react-example/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
@@ -15,7 +15,8 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "deploy":"gh-pages - build",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
